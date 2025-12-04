@@ -1,4 +1,4 @@
-# SuaPrimeiraPaginaNunes
+# Blog em Django – Curso Python Coderhouse
 
 Este projeto foi desenvolvido como parte do curso de Python da Coderhouse.
 
